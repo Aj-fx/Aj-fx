@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://youtube.com/channel/UCx8GEqibLXQ3RD_W9XS8o3w"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
 </p>
-<img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/sgDvxrK/IMG-20210727-WA1305.jpg" />
+<img align="center" fit="fill" alt="JPG" src="https://i.imgur.com/zMa7aL8.jpeg" />
 
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/Aj-fx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>

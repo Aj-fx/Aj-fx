@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-I'm currently learning:
-- Python
-- Javascript
-</p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://youtube.com/channel/UCx8GEqibLXQ3RD_W9XS8o3w"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>

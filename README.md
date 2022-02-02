@@ -9,6 +9,11 @@
   <a href="https://instagram.com/_aj_fx._?utm_medium=copy_link"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/iUAvnLv.jpeg"/></a>
 </p>
 <img align="center" fit="fill" alt="JPG" src="https://i.imgur.com/zMa7aL8.jpeg" />
+ 
+<h3 align="center">
+ ᴀͥᴊͭᴀᷤʏᴀͫɴͤꫂ⁩
+<h3 align="center">
+ᴘʟᴀᴄᴇ: ᴘᴀʟᴀᴋᴋᴀᴅ ᴘᴀᴛᴛᴀᴍʙɪ
 
 ### 📫 Follow Me On
 <a href="https://instagram.com/_aj_fx._?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>

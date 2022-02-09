@@ -23,7 +23,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Aj-fx&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj-fx&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Aj-fx&repo=Kaztroser&heme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Aj-fx&repo=Kaztro_ser&heme=dark)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

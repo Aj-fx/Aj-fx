@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Welcome to Ajfx profile!
+    Welcome to Ajfx profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aj-fx-Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
-### 📫 Follow Me On
+#### 📫 Follow Me On
 
 <a href="https://youtu.be/AGk2F4uORtc/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://instagram.com/_aj_fx._?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -28,9 +28,8 @@
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=Aj-fx&repo=Kaztro_ser&theme=dark)](https://github.com/Aj-fx/Kaztro_ser)
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+kaztroser+WA+Bot+repo;Created+by+Ajfx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+###### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/Aj-fx/count.svg)
 
-
+###### I AM NOT A PRO 🍁

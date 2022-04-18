@@ -29,7 +29,7 @@
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+kaztroser+WA+Bot+repo;Created+by+Ajfx;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
-###### TOTAL REPO VIEWS📍
+#### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/Aj-fx/count.svg)
 
 ###### I AM NOT A PRO 🍁

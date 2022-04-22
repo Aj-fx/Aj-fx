@@ -28,7 +28,7 @@
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=Aj-fx&repo=Kaztro_ser&theme=dark)](https://github.com/Aj-fx/Kaztro_ser)
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗔𝗝+𝗙𝗫+𝗣𝗥𝗢𝗙𝗜𝗟𝗘)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗔𝗝+𝗙𝗫+𝗣𝗥𝗢𝗙𝗜𝗟𝗘)](https://git.io/typing-svg)
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/Aj-fx/count.svg)
 

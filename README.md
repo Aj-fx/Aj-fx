@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://instagram.com/_aj_fx._?utm_medium=copy_link"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/iUAvnLv.jpeg"/></a>
 </p>
-<img align="center" fit="fill" alt="JPG" src="https://i.imgur.com/zMa7aL8.jpeg" />
+<img align="center" fit="fill" alt="JPG" src="https://i.ibb.co/L9VdnSV/a7fcb75eebd3.jpg" />
  
 <h3 align="center">
  ᴀͥᴊͭᴀᷤʏᴀͫɴͤꫂ⁩
